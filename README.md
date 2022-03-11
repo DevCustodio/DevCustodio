@@ -15,7 +15,9 @@ Currently, i'm working to find a good opportunity to start my career in the tech
 I'm learning all the languages needed to become a great front-end developer: HTML, CSS, JS, Scrum, UX. At least so far, cuz full-stack is a future possibility.
 
 ### Contact me! | Me contate em:
--📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com.
+-📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com. 
+
+Thank you!
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCustodio&show_icons=true&theme=midnight-purple"/>
