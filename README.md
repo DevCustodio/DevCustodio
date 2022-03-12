@@ -23,3 +23,5 @@ Thank you!
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCustodio&show_icons=true&theme=midnight-purple"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCustodio&layout=compact&theme=midnight-purple"/>
 </div>
+
+github-contribution-grid-snake.svg
