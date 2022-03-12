@@ -24,4 +24,8 @@ Thank you!
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCustodio&layout=compact&theme=midnight-purple"/>
 </div>
 
-github-contribution-grid-snake.svg
+<div>
+    github_Devcustodio: ${{ github.repository_owner }}
+    svg_out_path: dist/github-snake.svg
+    github-contribution-grid-snake.svg
+</div>
