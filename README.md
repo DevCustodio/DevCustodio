@@ -8,7 +8,7 @@ Atualmente estou aprendendo todas as linguagens necessárias para me tornar um g
 
 
 ## Helo everyone !
-My name is Dénizard Custodio, but you all can call me dev Custodio. This repository is to keep all my projects, to follow and make clear my evolution in programming.
+My name is Dénizard Custodio, but you all can call me Dev Custodio. This repository is to keep all my projects, to follow and make clear my evolution in programming.
 
 I'm a proud brazilian teacher of philosophy, and now i'm also a developer front-end. 
 Currently, i'm working to find a good opportunity to start my career in the technology field, as a front end dev junior or something similar.
