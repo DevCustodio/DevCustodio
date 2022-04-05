@@ -3,7 +3,7 @@
 Me chamo Dénizard Custodio, mas vocês podem me chamar de dev Custodio. Este repositório é para guardar todos os meus projetos, acompanhar e deixar claro minha evolução na programação.
 
 Sou um orgulhoso professor brasileiro de filosofia, e agora também sou um desenvolvedor front-end.
-Estou tentando encontrar uma boa oportunidade para iniciar minha carreira na área de tecnologia, como front end dev junior ou algo similar.
+Estou tentando encontrar uma boa oportunidade para iniciar minha carreira na área de tecnologia, como front end dev junior ou algo similar. Tenho muito interesse em cloud e web3.
 Atualmente estou aprendendo todas as linguagens necessárias para me tornar um grande desenvolvedor front-end: JS, Scrum, UX. Pelo menos até agora, pois tudo é uma possibilidade para o futuro.
 
 
@@ -11,7 +11,7 @@ Atualmente estou aprendendo todas as linguagens necessárias para me tornar um g
 My name is Dénizard Custodio, but you all can call me Dev Custodio. This repository is to keep all my projects, to follow and make clear my evolution in programming.
 
 I'm a proud brazilian teacher of philosophy, and now i'm also a developer front-end. 
-Currently, i'm working to find a good opportunity to start my career in the technology field, as a front end dev junior or something similar.
+Currently, i'm working to find a good opportunity to start my career in the technology field, as a front end dev junior or something similar. I'm very interested in cloud n web3.
 I'm learning all the languages needed to become a great front-end developer: JS, Scrum, UX. At least so far, cuz everything is a future possibility.
 
 ### Contact me! | Me contate em:
