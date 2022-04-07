@@ -4,7 +4,7 @@ Me chamo Dénizard Custodio, mas vocês podem me chamar de dev Custodio. Este re
 
 Sou um orgulhoso professor brasileiro de filosofia, e agora também sou um desenvolvedor front-end.
 Estou tentando encontrar uma boa oportunidade para iniciar minha carreira na área de tecnologia, como front end dev junior ou algo similar. Tenho muito interesse em cloud e web3.
-Atualmente estou aprendendo todas as linguagens necessárias para me tornar um grande desenvolvedor front-end: JS, Scrum, UX. Pelo menos até agora, pois tudo é uma possibilidade para o futuro.
+Atualmente estou aprendendo todas as habilidades necessárias para me tornar um grande desenvolvedor front-end: JS, Scrum, UX. Pelo menos até agora, pois tudo é uma possibilidade para o futuro.
 
 
 ## Helo everyone !
@@ -12,7 +12,7 @@ My name is Dénizard Custodio, but you all can call me Dev Custodio. This reposi
 
 I'm a proud brazilian teacher of philosophy, and now i'm also a developer front-end. 
 Currently, i'm working to find a good opportunity to start my career in the technology field, as a front end dev junior or something similar. I'm very interested in cloud n web3.
-I'm learning all the languages needed to become a great front-end developer: JS, Scrum, UX. At least so far, cuz everything is a future possibility.
+I'm learning all the skills needed to become a great front-end developer: JS, Scrum, UX. At least so far, cuz everything is a future possibility.
 
 ### Contact me! | Me contate em:
 -📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com. 
