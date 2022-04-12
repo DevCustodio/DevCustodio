@@ -15,7 +15,7 @@ Currently, i'm working to find a good opportunity to start my career in the tech
 I'm learning all the skills needed to become a great front-end developer: JS, Scrum, UX. At least so far, cuz everything is a future possibility.
 
 ### Contact me! | Me contate em:
--📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com. 
+-📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com.
 
 Thank you!
 
