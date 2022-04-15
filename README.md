@@ -17,7 +17,7 @@ I'm learning all the skills needed to become a great front-end developer: JS, Sc
 ### Contact me! | Me contate em:
 -📫 Linkedin: www.linkedin.com/in/dénizard-custodio-dev-filosofia75 | Email: denizard79@gmail.com.
 
-Thank you!
+Thank you!!
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCustodio&show_icons=true&theme=midnight-purple"/>
