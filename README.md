@@ -4,7 +4,7 @@ Me chamo Dénizard Custodio, mas vocês podem me chamar de dev Custodio. Este re
 
 Sou um orgulhoso professor brasileiro de filosofia, e agora também sou um desenvolvedor front-end.
 Estou tentando encontrar uma boa oportunidade para iniciar minha carreira na área de tecnologia, como front end dev junior ou algo similar. Tenho muito interesse em cloud e web3.
-Atualmente estou aprendendo todas as habilidades necessárias para me tornar um grande desenvolvedor front-end: JS, Scrum, UX. Pelo menos até agora, pois tudo é uma possibilidade para o futuro.
+Atualmente estou aprendendo todas as habilidades necessárias para me tornar um grande desenvolvedor front-end: Scrum, UX. Pelo menos até agora, pois tudo é uma possibilidade para o futuro.
 
 
 ## Helo everyone !
